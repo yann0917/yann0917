@@ -35,6 +35,6 @@ Here are some ideas to get you started:
 
 ## Pinned
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yann0917&repo=dedao-dl&show_icons=true&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yann0917&repo=dedao-dl&show_icons=true&theme=&layout=)](https://github.com/yann0917/dedao-dl)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yann0917&repo=dedao-gui&show_icons=true&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yann0917&repo=dedao-gui&show_icons=true&theme=&layout=)](https://github.com/yann0917/dedao-gui)
