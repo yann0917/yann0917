@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yann0917&hide=javascript,html,css&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-## Pinned
+<!-- ## Pinned
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yann0917&repo=dedao-dl&show_icons=true&theme=&layout=)](https://github.com/yann0917/dedao-dl)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yann0917&repo=dedao-gui&show_icons=true&theme=&layout=)](https://github.com/yann0917/dedao-gui)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yann0917&repo=dedao-gui&show_icons=true&theme=&layout=)](https://github.com/yann0917/dedao-gui) -->
